@@ -10,9 +10,10 @@ Mechatronics Engineering student at UQ interested in:
 ## Current Projects
 - Computer vision tracking turret (OpenCV + Arduino)
 - ROS2 learning projects
+- Memory Allocator from scratch
 
 ## Tools & Technologies
-Python • C++ • OpenCV • Arduino • Linux • Git
+Python • C  • Arduino • Linux • Git
 
 <!--
 **jbbinskin-dev/jbbinskin-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
